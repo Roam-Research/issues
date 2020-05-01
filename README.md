@@ -19,14 +19,14 @@ Sometimes the issue you're looking for is already closed and there's an answer t
 
 ## Bug reports
 
-To report a bug [click here](https://github.com/Roam-Research/issues/issues/new?template=bug_report.md) and fill in the template. We'll look at is as soon as we can.
+To report a bug [click here](https://github.com/Roam-Research/issues/issues/new?assignees=&labels=bug&template=bug_report.md&title=) and fill in the template. We'll look at is as soon as we can.
 
 Reproductions are really important because that's how we can determine if we fixed something. If you can find a reproduction, try to add as much detail about the context of the problem as possible.
 
 
 ## Feature requests
 
-To request a new feature [click here](https://github.com/Roam-Research/issues/issues/new?template=feature_request.md) and fill in the template. Please focus on the problem you're trying to solve over concrete implementations.
+To request a new feature [click here](https://github.com/Roam-Research/issues/issues/new?assignees=&labels=feature+request&template=feature_request.md&title=) and fill in the template. Please focus on the problem you're trying to solve over concrete implementations.
 
 Keep in mind that features often require a fair bit of work and maintenance, and even if they are good ideas there are many good reasons why they might not be picked up. For instance, they might not be aligned with the overall product vision, roadmap, or are out-prioritized.
 

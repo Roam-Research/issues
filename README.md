@@ -33,4 +33,4 @@ Keep in mind that features often require a fair bit of work and maintenance, and
 
 ## Other resources
 
-You can also check out our [Help Roam](https://roamresearch.com/#/app/help/page/1wnq-ZAAN), hang out with fellow Roamans on the [Roam Slack](https://roamresearch.slack.com/join/shared_invite/enQtODg3NjIzODEwNDgwLTdhMjczMGYwN2YyNmMzMDcyZjViZDk0MTA2M2UxOGM5NTMxNDVhNDE1YWVkNTFjMGM4OTE3MTQ3MjEzNzE1MTA), and tweet to the [Roam Twitter](https://twitter.com/RoamResearch).
+You can also check out our [Help Roam](https://roamresearch.com/#/app/help/page/1wnq-ZAAN), hang out with fellow Roamans on the [Roam Slack](https://join.slack.com/t/roamresearch/shared_invite/zt-e2wfa25e-MNVKIcKm1ng63VrrwQ14Dg), and tweet to the [Roam Twitter](https://twitter.com/RoamResearch).

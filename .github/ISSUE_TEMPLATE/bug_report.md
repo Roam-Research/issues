@@ -26,6 +26,7 @@ Steps to reproduce the behavior:
 
 
 **System Information:**
+ - Roam version: [e.g 0.5.0-43911ff0, find it at the end of the help button pop up]
  - Device: [e.g. iPhone6, desktop computer]
  - OS: [e.g. iOS8.1, Windows, ]
  - Browser [e.g. Chrome, Safari, FireFox, Brave]

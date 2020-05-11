@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Security Issues
+    url: https://github.com/Roam-Research/issues/security/advisories/new
+    about: Report security issues privately
   - name: Help Roam
     url: https://roamresearch.com/#/app/help/page/1wnq-ZAAN
     about: You can find help for using Roam here.

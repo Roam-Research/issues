@@ -31,6 +31,11 @@ To request a new feature [click here](https://github.com/Roam-Research/issues/is
 Keep in mind that features often require a fair bit of work and maintenance, and even if they are good ideas there are many good reasons why they might not be picked up. For instance, they might not be aligned with the overall product vision, roadmap, or are out-prioritized.
 
 
+## Security issues
+
+To report security issues [click here](https://github.com/Roam-Research/issues/security/advisories/new) and fill the template to create a [Security Advisory](https://help.github.com/en/github/managing-security-vulnerabilities/about-github-security-advisories). These are separate from public issues in that only you and the Roam team can see them, which allows us to work on fixing the problem without publicizing it further for exploitation.
+
+
 ## Other resources
 
 You can also check out our [Help Roam](https://roamresearch.com/#/app/help/page/1wnq-ZAAN), hang out with fellow Roamans on the [Roam Slack](https://join.slack.com/t/roamresearch/shared_invite/zt-e2wfa25e-MNVKIcKm1ng63VrrwQ14Dg), and tweet to the [Roam Twitter](https://twitter.com/RoamResearch).

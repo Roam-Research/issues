@@ -38,4 +38,4 @@ To report security issues please let us know via [Slack](https://roamresearch.sl
 
 ## Other resources
 
-You can also check out our [Help Roam](https://roamresearch.com/#/app/help/page/1wnq-ZAAN), hang out with fellow Roamans on the [Roam Slack](https://join.slack.com/t/roamresearch/shared_invite/zt-e2wfa25e-MNVKIcKm1ng63VrrwQ14Dg), and tweet to the [Roam Twitter](https://twitter.com/RoamResearch).
+You can also check out our [Help Roam](https://roamresearch.com/#/app/help/page/1wnq-ZAAN), hang out with fellow Roamans on the [Roam Slack](https://join.slack.com/t/roamresearch/shared_invite/zt-e8vdhiat-HtNt3Q6nQ8ZkL50qHrzDqQ), and tweet to the [Roam Twitter](https://twitter.com/RoamResearch). If the Slack invite is no longer active let us know so we can update it.

@@ -40,4 +40,4 @@ Security Advisories are separate from public issues in that only you and the Roa
 
 ## Other resources
 
-You can also check out our [Help Roam](https://roamresearch.com/#/app/help/page/1wnq-ZAAN), hang out with fellow Roamans on the [Roam Slack](https://join.slack.com/t/roamresearch/shared_invite/zt-e8vdhiat-HtNt3Q6nQ8ZkL50qHrzDqQ), and tweet to the [Roam Twitter](https://twitter.com/RoamResearch). If the Slack invite is no longer active let us know so we can update it.
+You can also check out our [Help Roam](https://roamresearch.com/#/app/help/page/1wnq-ZAAN), hang out with fellow Roamans on the [Roam Slack](https://join.slack.com/t/roamresearch/shared_invite/zt-ft43m4mo-DDXHHaguKCIEgU09P1ittA), and tweet to the [Roam Twitter](https://twitter.com/RoamResearch). If the Slack invite is no longer active let us know so we can update it.

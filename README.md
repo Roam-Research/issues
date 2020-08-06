@@ -2,8 +2,7 @@
 
 Hi there fellow Roamans!
 
-We're experimenting with a GitHub based issue tracker to channel all the awesome detailed bug reports and feature requests you all give us into a more permanent record.
-Using GitHub issues will also make it easier for us to let you know when these issues are addressed, and in what release you can expect them.
+We're experimenting with a GitHub based issue tracker to channel all the detailed bug reports you all give us into a more permanent record. Using GitHub issues will also make it easier for us to let you know when these issues are addressed, and in what release you can expect them.
 
 You will need a GitHub account to submit issues, but making one is free and doesn't have any strings attached. When you try to open an issue GitHub will prompt you to create an account if you don't have one.
 
@@ -26,7 +25,7 @@ Reproductions are really important because that's how we can determine if we fix
 
 ## Feature requests
 
-To request a new feature [click here](https://github.com/Roam-Research/issues/issues/new?assignees=&labels=feature+request&template=feature_request.md&title=) and fill in the template. Please focus on the problem you're trying to solve over concrete implementations.
+To request a new feature [please join our forum](https://forum.roamresearch.com) and start a topic about it there. You will find other Roamans in the forum who can help vouch for your suggestions!
 
 Keep in mind that features often require a fair bit of work and maintenance, and even if they are good ideas there are many good reasons why they might not be picked up. For instance, they might not be aligned with the overall product vision, roadmap, or are out-prioritized.
 
